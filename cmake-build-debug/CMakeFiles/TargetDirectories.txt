@@ -1,0 +1,5 @@
+C:/Users/blanda/OneDrive - Lebanon Valley College/Desktop/C++ Examples/csc361_examples/futures_revisited_updated_continuations/cmake-build-debug/CMakeFiles/ao-cpp.dir
+C:/Users/blanda/OneDrive - Lebanon Valley College/Desktop/C++ Examples/csc361_examples/futures_revisited_updated_continuations/cmake-build-debug/CMakeFiles/package.dir
+C:/Users/blanda/OneDrive - Lebanon Valley College/Desktop/C++ Examples/csc361_examples/futures_revisited_updated_continuations/cmake-build-debug/CMakeFiles/package_source.dir
+C:/Users/blanda/OneDrive - Lebanon Valley College/Desktop/C++ Examples/csc361_examples/futures_revisited_updated_continuations/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/blanda/OneDrive - Lebanon Valley College/Desktop/C++ Examples/csc361_examples/futures_revisited_updated_continuations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
